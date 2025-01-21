@@ -7,7 +7,7 @@ namespace ConsoleApp3;
     internal class Program
     {
 
-    ///Калганов Андрей и Кротов Кирилл П23-2.2
+    ///Кротов Кирилл П23-2.2
 
     static void Main(string[] args)
     {
